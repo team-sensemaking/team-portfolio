@@ -32,8 +32,13 @@ Fridays 9 - 5 (what a way to make a livin')
 
 ## Project Preferences
 
-Preference | Project | Justification
+Ranking | Project | Justification
 ---|---|---
 1 | 4 | Many team members proficient in C#. We like the frontend component. Some of us have worked with similar technologies and have lots of great ideas to adapt this kind of product.
 2 | 1 | Team is passionate about web applications. Some team members have worked on similar projects in the past.
 3 | 6 | Also a web application with strong frontend focus, some team members familiar with MEAN stack.
+4 | 7 |
+5 | 5 |
+6 | 3 |
+7 | 8 |
+8 | 2 |
