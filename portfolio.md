@@ -2,10 +2,10 @@
 
 ## Members
 
-Name | Email | Technical Strengths
+Name | Email | Technical Strengths (Style, Language, Technology)
 ---|---|---
 Alexander Mercer | amer236@aucklanduni.ac.nz | Backend, C#, .NET
-Dean Ulbrick     | dulb640@aucklanduni.ac.nz | Full stack, Visual basic, MS SQL
+Dean Ulbrick     | dulb640@aucklanduni.ac.nz | Full stack, Java, MS SQL
 Frano Stanisic   | fsta657@aucklanduni.ac.nz | Desktop, Python, Perforce
 Greggory Tan     | gtan683@aucklanduni.ac.nz | Frontend, C#, .NET
 Ofek Wittenberg  | owit454@aucklanduni.ac.nz | Backend, C#, Azure
